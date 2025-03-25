@@ -1,7 +1,5 @@
-# SignSense: AI Hand Gesture-Based Language Interpreter  
-
 ## 🚀 Introduction  
-**AgroGuard** is an AI-powered smart crop disease detection system that analyzes plant images to identify diseases instantly. Using advanced machine learning and computer vision, it helps farmers take proactive measures, ensuring healthier crops and improved yields. 🚜🌱
+**PlantProtect** is an AI-powered smart crop disease detection system that analyzes plant images to identify diseases instantly. Using advanced machine learning and computer vision, it helps farmers take proactive measures, ensuring healthier crops and improved yields. 🚜🌱
 
 ## 🎯 Features  
 - **AI-Powered Crop Disease Detection** – Upload a crop image, and the system identifies the most likely disease using advanced machine learning.  
